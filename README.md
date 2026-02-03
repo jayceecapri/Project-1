@@ -6,6 +6,6 @@ The client wants an analysis to determine if air quality in Nebraska meets Natio
 
 ## Repo Structure
 The repository includes the following files:
--[Raw Data](Air_Quality_RawData)
--[Python File] (Project1_final)
--[ACD] ()
+-[Raw Data](AirQuality_Daily_StudentVersion2)
+-[Python File](Project1_Final-2)
+-[ACD](ACD_AirQuality_Analysis)
